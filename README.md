@@ -6,15 +6,13 @@
 
 - 👯 I’m looking to collaborate on **projects related to cloud infrastructure, automation, and CI/CD pipelines.**
 
-- 👨‍💻 All of my projects are available at [nonotnones.github.io/thedevops/](nonotnones.github.io/thedevops/)
-
-- 📝 I regularly write articles on [nonotnonez.github.io/cicd-ws/](nonotnonez.github.io/cicd-ws/)
+- 👨‍💻 All of my projects are available at **[Sile Projects](https://nonotnonez.github.io/cicd-ws/)**
 
 - 💬 Ask me about **AWS services, DevOps methodologies, and cloud-native architectures.**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/tuantran89/)**
 
-- 📄 Know about my experiences [nonotnones.github.io/portfolio](nonotnones.github.io/portfolio)
+- 📄 Know about my experiences **[Porfolio](https://nonotnones.github.io/portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
